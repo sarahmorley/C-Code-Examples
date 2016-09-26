@@ -8,8 +8,11 @@ Name	- Role -	User ID -	Password
 
 
 Mr Arthur Daley -	Managing Director	-  25 - 	ireland
+
 Mr Jose Mourinho -	Head Mechanic -	22 - 	SpecialOne
+
 Mr Jack Admin -	Administration -	10000	- admin
+
 Mr Aaron Ramsey -	Mechanic -	1 - 	arsenal
 
 When a user successfully logs into the system, they are presented with a main menu which has four options as follows:
